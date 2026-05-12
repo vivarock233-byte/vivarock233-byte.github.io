@@ -78,16 +78,6 @@ I am currently pursuing graduate study at the **Dalian Institute of Chemical Phy
   </article>
 </div>
 
-## Methods and tools
-
-| Area | Tools and methods |
-|---|---|
-| Programming | Python, C++, Java, MATLAB |
-| Metabolic modeling | COBRApy, FBA, pFBA, GEM curation, GPR analysis |
-| Data analysis | pandas, NumPy, scikit-learn, PCA, visualization |
-| Bioinformatics | Orthogroups, genome annotation comparison, gene copy-number analysis |
-| Environmental modeling | HAMSOM-CoSiNE, CO2SYS, remote-sensing data processing |
-
 <div class="home-section-note">
   <p><strong>Current question:</strong> How can genome-scale models and genotype-level variation explain the phenotypic diversity of methanol-utilizing yeasts?</p>
 </div>
