@@ -15,8 +15,8 @@ name                     : &name "Yixiang Luo"
 description              : &description "Academic homepage of Yixiang Luo, focused on systems biology, metabolic modeling, and synthetic biology."
 url                      : https://vivarock233-byte.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/academicpages.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "vivarock233-byte/academicpages.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "vivarock233-byte/vivarock233-byte.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
