@@ -13,7 +13,8 @@ redirect_from:
     <h1 class="home-title">Yixiang Luo</h1>
     <p class="home-lead">
       I study how microbial phenotypes emerge from genomes, metabolic networks, and environmental constraints,
-      with a current focus on methanol yeasts, genome-scale metabolic models, and C1 biomanufacturing.
+      with a current focus on methanol yeasts, agent-based correction of genome-scale metabolic models,
+      and C1 biomanufacturing.
     </p>
     <ul class="home-actions">
       <li><a href="{{ '/cv/' | relative_url }}">View CV</a></li>
@@ -40,6 +41,10 @@ I am currently pursuing graduate study at the **Dalian Institute of Chemical Phy
     <p>GEM reconstruction, FBA and pFBA, flux interpretation, and genotype-to-phenotype reasoning.</p>
   </article>
   <article class="home-card">
+    <h3>Agent-based GEM correction</h3>
+    <p>Developing agent-based workflows to identify, evaluate, and correct errors in genome-scale metabolic models.</p>
+  </article>
+  <article class="home-card">
     <h3>Biological design</h3>
     <p>Using computational evidence to support microbial chassis evaluation and C1 resource utilization.</p>
   </article>
@@ -58,6 +63,38 @@ I am currently pursuing graduate study at the **Dalian Institute of Chemical Phy
   </article>
 </div>
 
+## Selected Research Projects
+
+<div class="home-card-grid">
+  <article class="home-card">
+    <p class="education-meta">Ongoing</p>
+    <h3>Agent-based GEM Correction</h3>
+    <p>Developing an evidence-aware agent workflow to identify candidate errors in genome-scale metabolic models, propose corrections, and evaluate them against biochemical evidence and model behavior.</p>
+  </article>
+  <article class="home-card">
+    <p class="education-meta">Undergraduate Thesis</p>
+    <h3>Comparative GEM Reconstruction and Phenotype Analysis of Methylotrophic Yeasts</h3>
+    <p>Constructed draft, strain-specific GEMs for 16 representative methylotrophic yeasts with AlphaGEM and performed reference-guided gap filling for growth on methanol. Integrated FBA/pFBA flux comparisons, orthogroup and gene-copy-number analyses, and methanol-utilization and tolerance phenotypes to investigate the genomic and metabolic basis of strain-level diversity.</p>
+  </article>
+</div>
+
+## Academic Supervision
+
+<div class="home-card-grid">
+  <article class="home-card">
+    <p class="education-meta">Primary Supervisor</p>
+    <h3>Prof. Yongjin Zhou (周雍进)</h3>
+    <p>Dalian Institute of Chemical Physics, Chinese Academy of Sciences</p>
+    <p><a href="https://scholar.google.com/citations?user=9hmyh9AAAAAJ" rel="noopener noreferrer">Google Scholar</a></p>
+  </article>
+  <article class="home-card">
+    <p class="education-meta">Joint-training Supervisor</p>
+    <h3>Asst. Prof. Feiran Li (李斐然)</h3>
+    <p>Shenzhen International Graduate School, Tsinghua University</p>
+    <p><a href="https://scholar.google.com/citations?user=Zn6Gy-IAAAAJ&amp;hl=en" rel="noopener noreferrer">Google Scholar</a></p>
+  </article>
+</div>
+
 ## Education
 
 <div class="education-list">
@@ -70,11 +107,13 @@ I am currently pursuing graduate study at the **Dalian Institute of Chemical Phy
     <p class="education-meta">2023</p>
     <h3>Exchange Student</h3>
     <p>National Yang Ming Chiao Tung University</p>
+    <p>Faculty mentor: <a href="https://ev.nycu.edu.tw/zh_cn/member/%E8%8E%8A%E6%98%93%E5%AD%B8-84654437" rel="noopener noreferrer">Assoc. Prof. Yi-Hsueh Chuang (莊易學)</a></p>
   </article>
   <article class="education-item">
     <p class="education-meta">2022-2026</p>
     <h3>Bachelor's Degree</h3>
     <p>Dalian University of Technology</p>
+    <p>Academic Rank: 2nd</p>
   </article>
 </div>
 
