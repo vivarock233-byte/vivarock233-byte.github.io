@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Yixiang Luo"
 title_separator          : "-"
 name                     : &name "Yixiang Luo"
-description              : &description "Academic homepage of Yixiang Luo, focused on systems biology, agent-based GEM correction, metabolic modeling, and synthetic biology."
+description              : &description "Academic homepage of Yixiang Luo, focused on systems biology, AI virtual cells, agent-based GEM correction, and metabolic modeling."
 url                      : https://vivarock233-byte.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile-star.jpg"
   name             : "Yixiang Luo"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. student working on systems biology, agent-based GEM correction, metabolic modeling, and synthetic biology."
+  bio              : "M.S. student interested in AI virtual cells, systems biology, agent-based GEM correction, and metabolic modeling."
   location         : "Dalian, China"
   employer         : "Dalian Institute of Chemical Physics, CAS"
   uri              : # URL

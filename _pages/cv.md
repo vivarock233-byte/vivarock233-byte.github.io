@@ -17,12 +17,13 @@ Education
 
 Academic Supervision
 ======
-* **Primary Supervisor:** Prof. Yongjin Zhou (周雍进), Dalian Institute of Chemical Physics, Chinese Academy of Sciences — [Google Scholar](https://scholar.google.com/citations?user=9hmyh9AAAAAJ)
-* **Joint-training Supervisor:** Asst. Prof. Feiran Li (李斐然), Shenzhen International Graduate School, Tsinghua University — [Google Scholar](https://scholar.google.com/citations?user=Zn6Gy-IAAAAJ&hl=en)
+* **Primary Supervisor:** [Prof. Yongjin Zhou (周雍进)](https://scholar.google.com/citations?user=9hmyh9AAAAAJ), Dalian Institute of Chemical Physics, Chinese Academy of Sciences
+* **Joint-training Supervisor:** [Asst. Prof. Feiran Li (李斐然)](https://scholar.google.com/citations?user=Zn6Gy-IAAAAJ&hl=en), Shenzhen International Graduate School, Tsinghua University
 
 Research interests
 ======
 * Systems biology
+* AI virtual cells (AIVCs) and multimodal cell-state modeling
 * Genome-scale metabolic modeling
 * Agent-based GEM correction
 * Methanol yeast diversity

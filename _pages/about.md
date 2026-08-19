@@ -9,12 +9,12 @@ redirect_from:
 
 <section class="home-hero">
   <div>
-    <p class="home-kicker">Systems Biology · Metabolic Modeling · Synthetic Biology</p>
+    <p class="home-kicker">AI Virtual Cells · Systems Biology · Metabolic Modeling</p>
     <h1 class="home-title">Yixiang Luo</h1>
     <p class="home-lead">
       I study how microbial phenotypes emerge from genomes, metabolic networks, and environmental constraints,
       with a current focus on methanol yeasts, agent-based correction of genome-scale metabolic models,
-      and C1 biomanufacturing.
+      and an emerging interest in AI virtual cells.
     </p>
     <ul class="home-actions">
       <li><a href="{{ '/cv/' | relative_url }}">View CV</a></li>
@@ -43,6 +43,10 @@ I am currently pursuing graduate study at the **Dalian Institute of Chemical Phy
   <article class="home-card">
     <h3>Agent-based GEM correction</h3>
     <p>Developing agent-based workflows to identify, evaluate, and correct errors in genome-scale metabolic models.</p>
+  </article>
+  <article class="home-card">
+    <h3>AI virtual cells</h3>
+    <p>Interested in multimodal, multiscale models that represent cellular states and predict responses to perturbations, with an emphasis on connecting data-driven learning to mechanistic metabolic models.</p>
   </article>
   <article class="home-card">
     <h3>Biological design</h3>
@@ -83,15 +87,13 @@ I am currently pursuing graduate study at the **Dalian Institute of Chemical Phy
 <div class="home-card-grid">
   <article class="home-card">
     <p class="education-meta">Primary Supervisor</p>
-    <h3>Prof. Yongjin Zhou (周雍进)</h3>
+    <h3><a href="https://scholar.google.com/citations?user=9hmyh9AAAAAJ" rel="noopener noreferrer">Prof. Yongjin Zhou (周雍进)</a></h3>
     <p>Dalian Institute of Chemical Physics, Chinese Academy of Sciences</p>
-    <p><a href="https://scholar.google.com/citations?user=9hmyh9AAAAAJ" rel="noopener noreferrer">Google Scholar</a></p>
   </article>
   <article class="home-card">
     <p class="education-meta">Joint-training Supervisor</p>
-    <h3>Asst. Prof. Feiran Li (李斐然)</h3>
+    <h3><a href="https://scholar.google.com/citations?user=Zn6Gy-IAAAAJ&amp;hl=en" rel="noopener noreferrer">Asst. Prof. Feiran Li (李斐然)</a></h3>
     <p>Shenzhen International Graduate School, Tsinghua University</p>
-    <p><a href="https://scholar.google.com/citations?user=Zn6Gy-IAAAAJ&amp;hl=en" rel="noopener noreferrer">Google Scholar</a></p>
   </article>
 </div>
 
