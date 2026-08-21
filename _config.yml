@@ -23,10 +23,10 @@ repository               : "vivarock233-byte/vivarock233-byte.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-star.jpg"
+  avatar           : "profile-2026.png"
   name             : "Yixiang Luo"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. student interested in AI virtual cells, systems biology, agent-based GEM correction, and metabolic modeling."
+  bio              : "Master’s student in Biology and Medicine interested in AI virtual cells, systems biology, agent-based GEM correction, and metabolic modeling."
   location         : "Dalian, China"
   employer         : "Dalian Institute of Chemical Physics, CAS"
   uri              : # URL
